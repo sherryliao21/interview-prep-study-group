@@ -1,6 +1,8 @@
-# Interview prep questions
+# Interview prep study group
 
-This is a repository dedicated to preparing for full-stack web dev interviews. As a group of four, we hold study groups every two weeks to share knowledge/info over some really popular interview questions, topics ranging from "How the Internet works," "Database," "JavaScript" to "HTML/CSS," and more.
+This is a repository for full-stack web dev interview preps. </br>
+As a group of four, we hold study sessions every two weeks to share knowledge / discuss on some popular interview questions. </br>
+Topics ranging from "How the Internet works," "Database," "JavaScript" to "HTML/CSS," and more.
 
 # Contributors
 
